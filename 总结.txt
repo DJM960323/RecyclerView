@@ -1,3 +1,4 @@
+（绑定RecyclerView 控件的时候我使用了ButterKnife框架，这是一个很好的框架，可以很方便的绑定控件，建议学习）
 1、布局文件中引入RecyclerView，写好子项列表的布局文件
 
 2、使用LinearLayoutManager的构造方法传入Context对象然后构造一个LinearLayoutManager对象、
